@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    z-index: 10000;
+}
+.work-aim{
+    width: 1200px;
+    line-height: 140px;
+}
+.arrow-down {
+    border: 1px solid rgb(255, 174, 22);
+}
+.about-subhead{
+    width: 700px;
+    line-height: 120px;
+}
+.about-text{
+    width: 850px;
+    line-height: 60px;
+}
+.about-button{
+    border: 2px solid #ffffff;
+    width: 400px;
+    height: 100px;
+}
+.services-subhead{
+    width: 850px;
+    line-height: 60px;
+}
+.services-button{
+    border: 4px solid #000;
+    width: 400px;
+    height: 100px;
+}
+.services-option-text{
+    width: 900px;
+    line-height: 50px;
+}
+.client-sub{
+    width: 750px;
+    line-height: 110px;
+}
+.client-text{
+    width: 900px;
+    line-height: 50px;
+}
+.client-testimony{
+    width: 565px;
+    line-height: 50px;
+}
+.ad{
+    width: 1000px;
+    margin: auto;
+}
+.ad2{
+    width: 1250px;
+    margin: auto;
+    line-height: 50px;
+}
+.artc-sub{
+    width: 500px;
+    padding: 20px 0px 50px 0px;
+}
+.artc-text{
+    width: 580px;
+    line-height: 50px;
+    font-weight: 600;
+}
+hr{
+    border: 1px solid #333333;
+    border-bottom: none;
+}
+.ending-text{
+    width: 900px;
+    line-height: 50px;
+    
+}
+.sites,
+.Newsletter-text{
+    line-height: 50px;
+}
+.Newsletter-text{
+    width: 300px;
+    
+}
